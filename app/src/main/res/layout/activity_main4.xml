@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main4Activity">
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="400dp"
+        android:layout_height="311dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="70dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginRight="1dp"
+        android:layout_marginBottom="350dp"
+        android:text="우리가 연애를 하나의 문제라고 생각을 했을때     그것에 대한 답은 나와 있을 것이다.     연애뿐만 아니라.     일상적인 삶속에서도     대부분 사람들이 선택을 하거나     그렇게 하지 않거나     하는 것은 다 이유가 있다라는 말     다들 알 것이다.     연애도 마찬가지 부분이다.     네가 그 사람을 못 꼬셨으면     네가 그 사람이랑 결혼이 안되었으면     네가 그 사람이랑 싸웠다면     네가 그 사람한테 사랑을 못 받았다면     그것에 대한 이유는 있는 것이다.     너의 부족함이 있기 때문에     너의 잘못된 부분이 있기 때문에     그런 결과가 나왔다라는 것     인정을 할 것이다"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>
